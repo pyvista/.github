@@ -1,4 +1,4 @@
-![banner](./pyvista_banner.png)
+![banner](./pyvista_banner_small.png)
 
 ### PyVista: 3D plotting made simple and built for large/complex data geometries
 
