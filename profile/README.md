@@ -1,6 +1,6 @@
 ![banner](./pyvista_banner_small.png)
 
-### PyVista: 3D plotting made simple and built for large/complex data geometries
+### PyVista: a community effort to make 3D visualization and analysis more approachable
 
 > *Our goal is to make 3D visualization and analysis approachable to domain-scientists so they can focus on the research questions at hand.*
 
