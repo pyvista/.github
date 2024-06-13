@@ -1,4 +1,4 @@
-![banner](./pyvista_banner_small.png)
+![banner](../pyvista_banner_small.png)
 
 ### PyVista: a community effort to make 3D visualization and analysis more approachable
 
