@@ -9,3 +9,9 @@ PyVista is used across science and engineering disciplines. A diverse community 
 Join our an open source community - our developers come from a wide breadth of backgrounds ranging from computational geophysics to aeronautical engineering. Our diverse team of developers is what makes PyVista successful and able to be used across disciplines.
 
 *New to programming?* **Welcome!** Many of PyVista's users are novice programmers and we've designed PyVista to be intuitive and ready for beginners to get started making compelling visualizations of complex geometries.
+
+### Professional Support
+
+*Need help getting the most out of PyVista? Want to sponsor development of new capabilities?*
+
+Please reach out to support@pyvista.org and we can connect you with the right community experts, who can help you confidently and efficiently use PyVista and/or tailor your custom software to leverage PyVista's robust 3D visualization capabilities.
